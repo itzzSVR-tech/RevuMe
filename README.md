@@ -1,5 +1,9 @@
 <div align="center">
 
+<br />
+<img src="public/hero.png" alt="Project Banner">
+<br />
+
 <h1 align="center">RevuMe : AI Resume Analyzer</h1>
 
 <div>
